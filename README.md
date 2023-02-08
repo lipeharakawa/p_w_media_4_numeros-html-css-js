@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Média de 4 Valores é uma página web que recebe 4 valores e escreve a média deles.
 
-- [ Visite o projeto online ]()
+- [ Visite o projeto online ](https://lipeharakawa.github.io/p_w_media_4_numeros-html-css-js)
 
 ## ✅ Licença
 
